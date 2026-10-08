@@ -12,7 +12,7 @@
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=salammi&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/salammi"
-  width="600"
-  height="300"
+  width="250"
+  height="125"
 />
 </a>
